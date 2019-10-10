@@ -11,3 +11,13 @@ Cargo.lock
 .DS_Store
 .idea
 *.iml
+
+# RandomX build files
+RandomX/CMakeCache.txt
+RandomX/CMakeFiles/
+RandomX/Makefile
+RandomX/cmake_install.cmake
+RandomX/librandomx.a
+RandomX/randomx-benchmark
+RandomX/randomx-codegen
+RandomX/randomx-tests
