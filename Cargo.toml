@@ -18,4 +18,3 @@ crate-type = ["cdylib"]
 libc = "0.2.62"
 
 [build-dependencies]
-git2 = "0.8"
